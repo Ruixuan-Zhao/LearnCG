@@ -1,0 +1,23 @@
+Package: LearnCG
+Type: Package
+Title: Learn the Chain Graph Model
+Version: 1.0.0
+Authors@R: 
+    c(person("Ruixuan", "Zhao", email = "ruixuzhao2-c@my.cityu.edu.hk", role = c("aut", "cre")),
+      person("Haoran", "Zhang", role = c("aut")),
+      person("Junhui", "Wang", role = c("aut")))
+Maintainer: Ruixuan Zhao <ruixuzhao2-c@my.cityu.edu.hk>
+Description: The goal of this package is to study the Gaussian Chain 
+    Graph Model. An efficient learning algorithm is built upon the identifiability 
+    conditions to fully recover the chain graph structure.
+License: GPL-2
+Encoding: UTF-8
+Imports: MASS, igraph, EvaluationMeasures, mvtnorm
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: R (>= 3.5.0)
+LazyData: true
+NeedsCompilation: no
+
+
+
