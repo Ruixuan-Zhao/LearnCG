@@ -10,7 +10,7 @@ Ruixuan Zhao (ruixuzhao2-c@my.cityu.edu.hk)
 
 ## Publication
 
-Zhao, R., Zhang, H. & Wang, J. (2023+). Identifiability and Consistent Estimation of the Gaussian Chain Graph Model. Manuscript.
+Zhao, R., Zhang, H. & Wang, J. (2023+). Identifiability and Consistent Estimation for Gaussian Chain Graph Models. Manuscript.
 
 ## Installation
 
