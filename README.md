@@ -18,7 +18,7 @@ Method 1: Run the following codes in R/Rstudio.
 
 ```
 library(devtools)
-Devtools::install_github("Ruixuan-Zhao/LearnCG")
+devtools::install_github("Ruixuan-Zhao/LearnCG")
 ```
 
 Method 2: Download the LearnCG_1.0.0.tar.gz and install from Package Archive File using RStudio.
